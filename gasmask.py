@@ -57,7 +57,8 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning) #remove insec
 
 message = """
 
-http://pcdunyasi.tv
+Forumumuz : http://pcdunyasi.tv
+Kanalımız : https://www.youtube.com/pcdunyasii
 
 
 """.format(__version__)
