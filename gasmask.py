@@ -56,16 +56,10 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning) #remove insec
 #######################################################
 
 message = """
-   ______           __  ___           __ __
-  / ____/___ ______/  |/  /___ ______/ //_/
- / / __/ __ `/ ___/ /|_/ / __ `/ ___/ ,<
-/ /_/ / /_/ (__  ) /  / / /_/ (__  ) /| |
-\____/\__,_/____/_/  /_/\__,_/____/_/ |_|
 
-GasMasK - All in one Information gathering tool - OSINT
-Ver. {}
-Written by: @maldevel
-https://www.twelvesec.com/
+http://pcdunyasi.tv
+
+
 """.format(__version__)
 
 #######################################################
