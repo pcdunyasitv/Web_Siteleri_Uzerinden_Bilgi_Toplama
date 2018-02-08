@@ -59,16 +59,7 @@ message = """
 
 Forumumuz : http://pcdunyasi.tv
 Kanalımız : https://www.youtube.com/pcdunyasii
-
 #######################################################
-
-
-
-
-
-
-
-
 
 
 
