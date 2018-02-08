@@ -59,9 +59,22 @@ message = """
 
 Forumumuz : http://pcdunyasi.tv
 Kanalımız : https://www.youtube.com/pcdunyasii
+
 #######################################################
 
-Bilgiler Elde Ediliyor. Lütfen Bekleyin.
+
+
+
+
+
+
+
+
+
+
+
+
+
 """.format(__version__)
 
 #######################################################
